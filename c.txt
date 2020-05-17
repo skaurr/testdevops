@@ -1,5 +1,5 @@
 Learning git process
-
+Merge with conflicts
 Learning git branch
 
 Today is 17th May'20
