@@ -3,3 +3,6 @@ Learning git process
 Learning git branch
 
 Today is 17th May'20
+
+modified content in b1 branch
+ b1
